@@ -1,0 +1,881 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"app",
+				"appRoutingProviders"
+			],
+			[
+				"fr",
+				"fruta"
+			],
+			[
+				"colo",
+				"color_seleccionado"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"tra",
+				"trabajador_externo"
+			],
+			[
+				"trabaja",
+				"trabajadores_externo"
+			],
+			[
+				"tipoDeUsuario",
+				"tipoDeUsuarioC"
+			],
+			[
+				"tipo",
+				"tipoDeUsuarioC"
+			],
+			[
+				"item",
+				"items"
+			],
+			[
+				"idU",
+				"idUsuario"
+			],
+			[
+				"nom",
+				"nombreUsuario"
+			],
+			[
+				"el",
+				"elId"
+			],
+			[
+				"equ",
+				"equipo"
+			],
+			[
+				"sqlPa",
+				"sqlPaqN"
+			],
+			[
+				"n",
+				"nbsp"
+			],
+			[
+				"ca",
+				"catalogoproductos"
+			],
+			[
+				"ite",
+				"items"
+			],
+			[
+				"row",
+				"rowElMismo"
+			],
+			[
+				"res",
+				"resultPaqN"
+			],
+			[
+				"mysql_num",
+				"mysql_num_rows"
+			],
+			[
+				"elpaq",
+				"elPaqNom"
+			],
+			[
+				"elpa",
+				"elPaqId"
+			],
+			[
+				"los",
+				"losItems"
+			],
+			[
+				"e",
+				"elPaqNom"
+			],
+			[
+				"elP",
+				"elPaqId"
+			],
+			[
+				"al",
+				"alert"
+			],
+			[
+				"sqlcat",
+				"sqlcatItems"
+			],
+			[
+				"pr",
+				"proyecto"
+			],
+			[
+				"eq",
+				"equipos"
+			],
+			[
+				"va",
+				"var"
+			],
+			[
+				"esta",
+				"estaOK"
+			],
+			[
+				"equipo",
+				"EquiposPaq"
+			],
+			[
+				"listade",
+				"listaDePaquetesI"
+			],
+			[
+				"items",
+				"ItemsPaq"
+			],
+			[
+				"Ite",
+				"ItemsPaq"
+			],
+			[
+				"crear",
+				"creaProyecto"
+			],
+			[
+				"region",
+				"RegionActual"
+			],
+			[
+				"Pa",
+				"ParentR"
+			],
+			[
+				"parent",
+				"ParentR"
+			],
+			[
+				"Regio",
+				"RegionActual"
+			],
+			[
+				"Pare",
+				"ParentR"
+			],
+			[
+				"Tip",
+				"TiP"
+			],
+			[
+				"elPa",
+				"elPaqTiendas"
+			],
+			[
+				"local",
+				"localidad"
+			],
+			[
+				"loca",
+				"localidad"
+			],
+			[
+				"b",
+				"board"
+			],
+			[
+				"s",
+				"switch"
+			],
+			[
+				"boa",
+				"board"
+			],
+			[
+				"l",
+				"log"
+			],
+			[
+				"d",
+				"draw"
+			],
+			[
+				"B",
+				"BoardView"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"p",
+				"prototype"
+			],
+			[
+				"Bo",
+				"BoardView"
+			],
+			[
+				"ba",
+				"ball"
+			],
+			[
+				"bar",
+				"bars"
+			],
+			[
+				"scr",
+				"SCRIPT	Tag"
+			],
+			[
+				"co",
+				"console"
+			],
+			[
+				"cu",
+				"curso"
+			],
+			[
+				"cur",
+				"Curso"
+			],
+			[
+				"to",
+				"toUpperCase"
+			],
+			[
+				"t",
+				"tutor"
+			],
+			[
+				"se",
+				"setTutor"
+			],
+			[
+				"get",
+				"getTutor"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"i",
+				"iniciar_tutorial"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"v",
+				"videos"
+			],
+			[
+				"ti",
+				"titulo"
+			],
+			[
+				"ass",
+				"assign"
+			],
+			[
+				"cons",
+				"consultaRetorno"
+			],
+			[
+				"WHER",
+				"wincache_rplist_fileinfo"
+			],
+			[
+				"S",
+				"SELECT"
+			],
+			[
+				"estud",
+				"estudiantes"
+			],
+			[
+				"ESTU",
+				"estudiantes"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"imagen",
+				"imagen"
+			],
+			[
+				"id",
+				"id_seccion"
+			],
+			[
+				"es",
+				"estudiantes"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/app/app.component.html",
+			"settings":
+			{
+				"buffer_size": 143,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/app/empleado/empleado.component.ts",
+			"settings":
+			{
+				"buffer_size": 1008,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/app/app.component.ts",
+			"settings":
+			{
+				"buffer_size": 230,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/app/fruta/fruta.component.ts",
+			"settings":
+			{
+				"buffer_size": 1387,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/app/app.routing.ts",
+			"settings":
+			{
+				"buffer_size": 594,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/curso-angular4/src/app/app.module.ts",
+		"/C/xampp/htdocs/curso-angular4/src/app/app.routing.ts",
+		"/C/xampp/htdocs/curso-angular4/src/index.html",
+		"/C/xampp/htdocs/curso-angular4/src/app/empleado/empleado.component.html",
+		"/C/xampp/htdocs/curso-angular4/src/assets/style.css",
+		"/C/xampp/htdocs/curso-angular4/src/app/empleado/empleado.component.ts",
+		"/C/xampp/htdocs/curso-angular4/src/app/app.component.html",
+		"/C/xampp/htdocs/curso-angular4/src/app/empleado/empleado.ts",
+		"/C/xampp/htdocs/curso-angular4/src/app/app.component.ts",
+		"/C/xampp/htdocs/curso-angular4/src/app/fruta/fruta.component.ts",
+		"/C/xampp/htdocs/curso-angular4/src/app/fruta/fruta.Component.html",
+		"/C/xampp/htdocs/curso-angular4/src/app/app.component.css",
+		"/C/xampp/htdocs/curso-angular4/src/app/app.component.spec.ts",
+		"/C/xampp/htdocs/curso-angular4/src/main.ts",
+		"/C/xampp/htdocs/curso-angular4/src/tsconfig.app.json",
+		"/C/xampp/htdocs/curso-angular4/src/tsconfig.spec.json",
+		"/C/xampp/htdocs/curso-angular4/tsconfig.json",
+		"/C/xampp/htdocs/curso-angular4/protractor.conf.js",
+		"/C/xampp/htdocs/curso-angular4/package.json",
+		"/C/xampp/htdocs/curso-angular4/karma.conf.js",
+		"/C/xampp/htdocs/curso-angular4/.gitignore",
+		"/C/xampp/htdocs/curso-angular4/.editorconfig",
+		"/C/xampp/htdocs/curso-angular4/.angular-cli.json",
+		"/C/xampp/htdocs/curso_angular_4/package.json",
+		"/C/cygwin/home/Adriana/curso-angular4/.angular-cli.json",
+		"/C/xampp/htdocs/curso_angular_4/src/app/app.component.ts",
+		"/C/xampp/htdocs/nuevo_uds (1)/detalles/usuarios/index.php",
+		"/C/xampp/htdocs/nuevo_uds (1)/detalles/usuarios/insUsuario.php",
+		"/C/xampp/htdocs/nuevo_uds/detalles/usuarios/insUsuario.php",
+		"/C/xampp/htdocs/nuevo_uds/detalles/usuarios/index.php",
+		"/C/xampp/htdocs/nuevo_uds (1)/detalles/usuarios/rdataUsuarios.php",
+		"/C/xampp/htdocs/nuevo_uds (1)/lib.php",
+		"/C/xampp/htdocs/nuevo_uds (1)/admintiendas/lib.php",
+		"/C/xampp/htdocs/nuevo_uds (1)/detalles/lib.php",
+		"/C/xampp/htdocs/nuevo_uds (1)/tiendas/lib.php",
+		"/C/xampp/htdocs/nuevo_uds (1)/a.php",
+		"/C/xampp/htdocs/nuevo_uds (1)/clientes/index.php",
+		"/C/xampp/htdocs/nuevo_uds (1)/clientes/ordenesR/index.php",
+		"/C/xampp/htdocs/nuevo_uds (1)/detalles/index.php",
+		"/C/xampp/htdocs/nuevo_uds (1)/clientes/ordenes/index.php",
+		"/C/xampp/htdocs/nuevo_uds (1)/clientes/ordenes/operOrdenes.php",
+		"/C/xampp/htdocs/nuevo_uds (1)/clientes/ordenes/rdataFacturas.php",
+		"/C/xampp/htdocs/nuevo_uds (1)/clientes/ordenes/rdataOrdenes.php",
+		"/C/xampp/htdocs/nuevo_uds (1)/clientes/ordenes/rres.php",
+		"/C/xampp/htdocs/nuevo_uds (1)/index.php",
+		"/C/xampp/htdocs/nuevo_uds (1)/formasmodal.js",
+		"/C/Users/Adriana/Downloads/drupal-8.3.7/.htaccess",
+		"/C/xampp/htdocs/nuevo_uds/detalles/lib.php",
+		"/C/Users/Adriana/Downloads/drupal-8.3.7/sites/default/default.settings.php",
+		"/C/Users/Adriana/Downloads/drupal-8.3.7/sites/default/settings.php",
+		"/C/xampp/htdocs/nuevo_uds/tiendasAdm/rTiendasPaquete.php",
+		"/C/xampp/htdocs/nuevo_uds/tiendasAdm/insPaquete.php",
+		"/C/xampp/htdocs/nuevo_uds/tiendasAdm/index.php",
+		"/C/xampp/htdocs/nuevo_uds/tiendasAdm/_index.php",
+		"/C/xampp/htdocs/nuevo_uds/tiendasAdm/lib.php",
+		"/C/xampp/htdocs/nuevo_uds/tiendasAdm/updTienda.php",
+		"/C/xampp/htdocs/nuevo_uds/detalles/items/index.php",
+		"/C/xampp/htdocs/nuevo_uds/detalles/items/insItem.php",
+		"/C/xampp/htdocs/nuevo_uds/detalles/productos/index.php",
+		"/C/xampp/htdocs/nuevo_uds/detalles/productos/updPaquete.php",
+		"/C/xampp/htdocs/nuevo_uds/detalles/usuarios/updPaqueteU.php",
+		"/C/xampp/htdocs/nuevo_uds/detalles/usuarios/insPaqueteU.php",
+		"/C/xampp/htdocs/nuevo_uds/detalles/productos/insPaquete.php",
+		"/C/xampp/htdocs/nuevo_uds/detalles/productos/insEquipo.php",
+		"/C/xampp/htdocs/nuevo_uds/detalles/productos/rdataEquipo.php",
+		"/C/xampp/htdocs/nuevo_uds/detalles/productos/rEquiposPaquete.php",
+		"/C/xampp/htdocs/nuevo_uds/detalles/items/updPaquete.php",
+		"/C/Users/Adriana/Documents/productos/Nueva carpeta/productos/insEquipo.php",
+		"/C/Users/Adriana/Documents/productos/productos/index.php",
+		"/C/xampp/htdocs/nuevo_uds/detalles/items/insPaquete.php",
+		"/C/xampp/htdocs/nuevo_uds/detalles/items/rPaquetes.php",
+		"/C/xampp/htdocs/nuevo_uds/detalles/usuarios/rUsuariosPaquete.php",
+		"/C/xampp/htdocs/nuevo_uds/detalles/usuarios/rPaquetesU.php",
+		"/C/xampp/htdocs/nuevo_uds/detalles/items/rItemsPaquete.php",
+		"/C/xampp/htdocs/nuevo_uds/detalles/usuarios/rUsuariosProyecto.php",
+		"/C/xampp/htdocs/nuevo_uds/detalles/usuarios/rdataUsuarios.php",
+		"/C/xampp/htdocs/nuevo_uds/detalles/items/rItemsProyecto.php",
+		"/C/xampp/htdocs/nuevo_uds/detalles/crearP/rTiendasPaquete.php",
+		"/C/xampp/htdocs/nuevo_uds/detalles/crearP/index.php",
+		"/C/xampp/htdocs/nuevo_uds/detalles/crearP/creaProyecto.php",
+		"/C/xampp/htdocs/nuevo_uds/detalles/items/rdataItem.php",
+		"/C/xampp/htdocs/nuevo_uds/detalles/items/rdataItem",
+		"/C/xampp/htdocs/nuevo_uds/detalles/crearP/rPaquetesTienda.php",
+		"/C/xampp/htdocs/nuevo_uds/detalles/crearP/rEquiposPaquete.php",
+		"/C/xampp/htdocs/nuevo_uds/detalles/crearP/dataTablesSpanishTiendas.json",
+		"/C/xampp/htdocs/nuevo_uds/detalles/crearP/dataTablesSpanishEquipos.json",
+		"/C/xampp/htdocs/nuevo_uds/detalles/crearP/rPaquetesTiendasDatos.php",
+		"/C/xampp/htdocs/nuevo_uds/detalles/crearP/rPaquetesEq.php",
+		"/C/xampp/htdocs/nuevo_uds/crearp/rPaquetes.php",
+		"/C/xampp/htdocs/nuevo_uds/crearp/rItemsPaquete.php",
+		"/C/xampp/htdocs/nuevo_uds/lib.php",
+		"/C/xampp/htdocs/nuevo_uds/reporteGeneral/lib.php",
+		"/C/xampp/htdocs/nuevo_uds/detalles/crearP/lib.php",
+		"/C/xampp/htdocs/nuevo_uds/tiendas/lib.php",
+		"/C/xampp/htdocs/nuevo_uds/step/lib.php",
+		"/C/xampp/htdocs/nuevo_uds/crearp/lib.php",
+		"/C/xampp/htdocs/nuevo_uds/detalles/crear/lib.php",
+		"/C/xampp/htdocs/nuevo_uds/detalles/crearp/lib.php",
+		"/C/xampp/htdocs/crearP/index.php",
+		"/C/xampp/htdocs/crearP/rdataTiendas.php",
+		"/C/xampp/htdocs/crearP/rEstadosTiendas.php",
+		"/C/xampp/htdocs/crearP/creaProyecto.php",
+		"/C/xampp/htdocs/crearP/jstree/demo/basic/index.html",
+		"/C/xampp/htdocs/curso_javascript/main.js",
+		"/C/xampp/htdocs/curso_javascript/pong/index.html",
+		"/C/xampp/htdocs/curso_javascript/pong/main1.js",
+		"/C/xampp/htdocs/curso_javascript/pong/ejem.js",
+		"/C/xampp/htdocs/curso_javascript/pong/main.js",
+		"/C/xampp/htdocs/curso_javascript/objets/get_set.html",
+		"/C/xampp/htdocs/curso_javascript/objets/prototype.html",
+		"/C/xampp/htdocs/curso_javascript/objets/functions.html",
+		"/C/xampp/htdocs/curso_javascript/json/index.html",
+		"/C/xampp/htdocs/curso_javascript/closures/index.html",
+		"/C/xampp/htdocs/sistema de usuario/login.html",
+		"/C/xampp/htdocs/sistema de usuario/entrar.php",
+		"/C/xampp/htdocs/sistema de usuario/registrar.php",
+		"/C/xampp/htdocs/sistema de usuario/registro.html",
+		"/C/xampp/htdocs/sistema de usuario/salir.php",
+		"/C/xampp/htdocs/sistema de usuario/config.php",
+		"/F/conect.php",
+		"/C/xampp/htdocs/inventory/config.php",
+		"/C/xampp/htdocs/inventory/index.php",
+		"/C/xampp/htdocs/inventory/inc/session.php",
+		"/C/xampp/htdocs/inventory/home.php",
+		"/C/Users/Adriana/Documents/inventory/user.php",
+		"/C/xampp/htdocs/inventory/inc/head.php",
+		"/C/xampp/htdocs/Sistema de equipos/control.php",
+		"/C/xampp/htdocs/inventory/items.php"
+	],
+	"find":
+	{
+		"height": 41.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"C:\\xampp\\htdocs\\nuevo_uds"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\");\n",
+			"myModalUsuario",
+			"tipoDeUsuarioCliente",
+			"tipoDeUsuarioB",
+			"mymodaladdc",
+			"mostrar",
+			"myModalAddCliente",
+			"myModalUsuario",
+			"tipoDeUsuarioC",
+			"addCliente()",
+			"tipoDeUsuarioB",
+			"http://localhost/drupal\n",
+			"\n",
+			":\n",
+			"$base_url",
+			" $base_url = 'http://localhost/drupal",
+			" $base_url = 'http://localhost/drupal'",
+			" $base_url = 'http://localhost/drupal'; ",
+			"updPaq()",
+			"updPaq();",
+			"editPaq",
+			"editaPaquete()",
+			"$result",
+			"cargaPaq",
+			"cargaPaqModificado",
+			"myModalItem",
+			": ",
+			"idU",
+			"mensajeInfoPaqEdit",
+			"mensajeInfoPaq",
+			"mensajeInfoPaqU",
+			"elmensajeBPEdit",
+			"#cualmensajeBPU",
+			"cualmensajeBPU",
+			"myModalAddPaqueteEdit",
+			"0",
+			"addPaq()",
+			"myModalAddPaquete",
+			"addEquipo()",
+			"addUsuario()",
+			"#myModalAddPaquete",
+			"myModalAddPaquete",
+			"addPaq()",
+			"agregaPaquete()",
+			"addPaqU",
+			"if(",
+			"addPaqU",
+			"$sqlPaqN",
+			"guardando usua",
+			"editPaqU",
+			"editPaq",
+			"myModalPaqUsuEdit",
+			"cualmensajeBUPEdit",
+			"\"myModalPaqUsuEdit",
+			"cualmensajeBPUEdit",
+			"cualmensajeBPEdit",
+			"cualmensajeBPUEdit",
+			"cualmensajeBPEdit",
+			"$(\"#elmensajeBPEdit\").css(\"display\", \"none\");",
+			"cualmensajeBPEdit",
+			"listaDePaqUsuario",
+			"elmensajeBPEdit",
+			"editPaqU()",
+			"editPaq()",
+			"idItemP",
+			"listaDePaqUsario",
+			"listaDePaquetes",
+			"cargaPaqU()",
+			"cargaPaqU();",
+			"addNombrePaqEdit",
+			"addNombrePaqUsuEdit",
+			"cargaPaqU",
+			"editaPaqueteU",
+			"myModalAddPaqueteEdit",
+			"editaPaquete()",
+			"cargaPaqU()",
+			"cargaPaqU",
+			"cargaPaqU()",
+			"editaPaqueteU()",
+			"rItemsPaquete.php",
+			"cargaPaq()",
+			"myModalAddPaqueteEdit",
+			"#myModalAddPaqueteEdit",
+			"#myModalAddPaqueteEdit ",
+			"#myModalAddPaqueteEdit",
+			"listaDeUsuarios",
+			"addNombrePaqU",
+			"#addNombrePaqU",
+			"#addNombrePaqU'",
+			"mensajeInfoPaqU",
+			"mensajeInfoPaq",
+			"myModalAddPaqU",
+			"listaDeUsuarios",
+			"listaDeUsuariosP",
+			"listaDeUsuarios",
+			"myModalAddPaqU  ",
+			"listaDeUsuarios",
+			"addNombrePaqU",
+			"btnUpdate",
+			"listaDeItems",
+			"listaDeUsuarios",
+			"nombreUsu",
+			"listaDeItems",
+			"addNombrePaq",
+			"mensajeInfoPaq",
+			"mensajeInfoPaqU",
+			"myModalAddPaquete",
+			"agregaPaquete()",
+			"cargaPaq()",
+			"addIdPaq",
+			"addNombrePaq",
+			"agregaPaqueteU()",
+			"agregaUsuario()",
+			"elHeaderConNombreAddU",
+			"agregaPaqueteU()",
+			"linkImagen",
+			"Selecciona usuarios",
+			"listaDeUsuarios",
+			"addNombrePaqU",
+			"addIdPaqU",
+			"myModalAddPaqU",
+			"myModalAddPaquete",
+			"listaDeUsuarios",
+			"addPaq()",
+			"addIdPaqU",
+			"agregaPaqueteU",
+			"agregaPaquete",
+			"addNombrePaqU"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"if (!($conexion = mysqli_connect(\"localhost\", \"root\",\"root\",\"nuevo_uds\")))"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/app/app.component.html",
+					"settings":
+					{
+						"buffer_size": 143,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								124,
+								124
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/app/empleado/empleado.component.ts",
+					"settings":
+					{
+						"buffer_size": 1008,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 162.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/app/app.component.ts",
+					"settings":
+					{
+						"buffer_size": 230,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/app/fruta/fruta.component.ts",
+					"settings":
+					{
+						"buffer_size": 1387,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 270.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/app/app.routing.ts",
+					"settings":
+					{
+						"buffer_size": 594,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								404,
+								404
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 228.0,
+	"status_bar_visible": true
+}
